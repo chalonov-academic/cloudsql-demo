@@ -67,7 +67,7 @@ SELECT * FROM estudiantes;
 ## Paso 3: Desplegar en Cloud Run
 ```bash
 # Clonar repositorio
-git clone https://github.com/TU-USUARIO/cloudsql-demo.git
+git clone https://github.com/chalonov-academic/cloudsql-demo.git
 cd cloudsql-demo
 
 # Configurar proyecto
